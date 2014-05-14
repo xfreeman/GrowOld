@@ -2,3 +2,19 @@ GrowOld
 =======
 
 Source code for the GrowOld streaming-only EP at http://turbulence.org/Works/GrowOld/
+
+Why can't my music grow old with me?
+
+Why does a recording sound exactly the same every time I listen to it? That makes sense when recordings are frozen in time on wax cylinders or vinyl or compact discs. But most of the music I listen to these days comes from a cloud-based streaming music service, and those digital 1s and 0s are streamed pretty much the same way every time.
+In this world of infinitely malleable, movable bits, why must the music always stay the same? From day to day and year to year, I change. I bring new perspectives and experiences to the music I hear. Can my music change with me?
+
+This streaming EP is my attempt to answer these questions. Once a day, a simple computer program recreates each track. From one day to the next, the changes in each track are usually quite subtle, and you may not even notice a difference. But over longer periods of time -- weeks, months, or years -- the changes become more substantial. So when you return to this music after a hiatus, then it, like you, will have changed.
+
+I wrote this music for many reasons. My students at Georgia Tech are always at the forefront of my mind, and this music is, in one sense, for them. I often teach algorithmic composition, and these pieces serve a practical pedagogical purpose for my students. On this site, I'm sharing both the audio tracks and the source code that I wrote to create them. Each track is deliberately simple, following through one or two core ideas and a straightforward algorithm to (what seems to me) its logical conclusion. Some of the techniques here might even seem a bit cliche, at least to the computer music geeks I count among my friends and colleagues. I hope, though, that my students see these as examples of how complexity is not always necessary, and of how simple ideas can lead in interesting directions. Or perhaps, I instead hope they find this music to be so offensive in its simplicity that it provokes them to create its antithesis, but that in so doing, they embark on a creative experiment they might not otherwise have tried.
+
+I also wrote this music for my family. Three of the tracks are inspired by members of my family; I'll explain more in the texts that accompany those tracks. I've always intended to write music for, or about, my family, but every composition project I undertake (except for this one) turns out to be a poor fit. This project at last presented me a perfect opportunity to do so.
+Finally, this work is very much intertwined with Brad Garton, whom I see extremely infrequently these days but think about extremely often. The programming environment I'm using to create this music is RTcmix, which Brad developed (along with some other amazing folks) and first introduced to me 15 years ago. Some of his work, and especially his music books, were a direct influence on my thinking about this project. Brad has also always been an incredible role model as a professor, composer, computer musician, husband, and father. I don't know if I really appreciated all of this as a 21-year-old graduate student of his, but with each passing year I understand and admire him more and more.
+
+Grow Old is a 2013 commission of New Radio and Performing Arts, Inc., for its Turbulence.org website. It was made possible with funding from the National Endowment for the Arts. My deepest thanks to Helen and Jo for their passion for experimental networked and sound art and for their support.
+
+This work, including the web site, the source code, and the music, is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. If you are interested in using it in a manner not permitted by that license, please contact me.
