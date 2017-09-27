@@ -87,13 +87,13 @@
         </div><!--/.nav-collapse -->
       </div>
     </div>
-    
+
     <div class="container">
 
       <!-- Main component for a primary marketing message or call to action -->
       <div id="intro" class="jumbotron">
         <h2>Introduction</h2>
-        <? include 'text/intro.txt'; ?>
+        <?php include 'text/intro.txt'; ?>
         <div id="mobile-more-menu" class="well visible-xs">
           <br>
           <ul>
@@ -115,7 +115,7 @@
       </div>
 
     </div> <!-- /container -->
-    
+
     <div class="container">
 
       <!-- Main component for a primary marketing message or call to action -->
@@ -127,34 +127,34 @@
               <source src="sound/alec.mp3" type="audio/mpeg">
               Click <a href="sound/alec.mp3">here</a> to listen to Saturn's Moons.
           </audio>-->
-          <iframe src="http://archive.org/embed/jason_freeman_grow_old/Saturns_Moons_<? include 'scripts/filenamedate.txt'; ?>.aif" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-          (Generated on <? include 'scripts/filenamedate.txt'; ?>)
+          <iframe src="http://archive.org/download/jason_freeman_grow_old/Saturns_Moons_<?php include 'scripts/filenamedate.txt'; ?>.aif" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+          (Generated on <?php include 'scripts/filenamedate.txt'; ?>)
         </div>
         <div class="row">
-          <? include 'text/alec.txt'?>
+          <?php include 'text/alec.txt'?>
         </div>
         <div id="mooncode" class="row pre-scrollable">
-          <pre><code><? $code = file_get_contents('scripts/alec5.sco'); $code = htmlentities($code, ENT_QUOTES); echo $code; ?></code></pre>
+          <pre><code><?php $code = file_get_contents('scripts/alec5.sco'); $code = htmlentities($code, ENT_QUOTES); echo $code; ?></code></pre>
         </div>
       </div>
     </div> <!-- /container -->
-    
+
   <div class="container">
         <div id="pianomusic" class="jumbotron">
             <h2>Toy Piano</h2>
           <div id="pianoessay" class="row">
-          <iframe src="http://archive.org/embed/jason_freeman_grow_old/Toy_Piano_<? include 'scripts/filenamedate.txt'; ?>.aif" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-          (Generated on <? include 'scripts/filenamedate.txt'; ?>)
+          <iframe src="http://archive.org/download/jason_freeman_grow_old/Toy_Piano_<?php include 'scripts/filenamedate.txt'; ?>.aif" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+          (Generated on <?php include 'scripts/filenamedate.txt'; ?>)
         </div>
         <div class="row">
-          <? include 'text/jonathan.txt'?>
+          <?php include 'text/jonathan.txt'?>
         </div>
         <div class="well well-lg">
           <div class="row">
             (Bonus Track: Live Performance of Lullaby for Growing Old by <a href="http://www.sonicgenerator.gatech.edu/tim-whitehead" target="_blank">Tim Whitehead</a>)
           </div>
           <div class="row">
-            <iframe src="https://archive.org/embed/lullabyforgrowingold" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+            <iframe src="https://archive.org/download/lullabyforgrowingold/freeman%20lullaby.wav" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
           </div>
           <div id="pianoscore" class="row">
             <div class="col-xs-6 col-md-4">
@@ -175,7 +175,7 @@
           </div>
         </div>
         <div id="pianocode" class="row pre-scrollable">
-          <pre><code><? $code = file_get_contents('scripts/jonathan3.sco'); $code = htmlentities($code, ENT_QUOTES); echo $code; ?></code></pre>
+          <pre><code><?php $code = file_get_contents('scripts/jonathan3.sco'); $code = htmlentities($code, ENT_QUOTES); echo $code; ?></code></pre>
         </div>
         </div>
     </div> <!-- /container -->
@@ -183,14 +183,14 @@
         <div id="infinitemusic" class="jumbotron">
             <h2>Infinite Snowflake</h2>
           <div id="infiniteessay" class="row">
-          <iframe src="http://archive.org/embed/jason_freeman_grow_old/Infinite_Snowflake_<? include 'scripts/filenamedate.txt'; ?>.aif" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-          (Generated on <? include 'scripts/filenamedate.txt'; ?>)
+          <iframe src="http://archive.org/download/jason_freeman_grow_old/Infinite_Snowflake_<?php include 'scripts/filenamedate.txt'; ?>.aif" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+          (Generated on <?php include 'scripts/filenamedate.txt'; ?>)
         </div>
         <div class="row">
-          <? include 'text/leah.txt'?>
+          <?php include 'text/leah.txt'?>
         </div>
         <div id="infinitecode" class="row pre-scrollable">
-          <pre><code><? $code = file_get_contents('scripts/leah3.sco'); $code = htmlentities($code, ENT_QUOTES); echo $code; ?></code></pre>
+          <pre><code><?php $code = file_get_contents('scripts/leah3.sco'); $code = htmlentities($code, ENT_QUOTES); echo $code; ?></code></pre>
         </div>
       </div>
     </div> <!-- /container -->
@@ -198,14 +198,14 @@
         <div id="codamusic" class="jumbotron">
             <h2>Coda</h2>
           <div id="codaessay" class="row">
-          <iframe src="http://archive.org/embed/jason_freeman_grow_old/Coda_<? include 'scripts/filenamedate.txt'; ?>.aif" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-          (Generated on <? include 'scripts/filenamedate.txt'; ?>)
+          <iframe src="http://archive.org/download/jason_freeman_grow_old/Coda_<?php include 'scripts/filenamedate.txt'; ?>.aif" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+          (Generated on <?php include 'scripts/filenamedate.txt'; ?>)
         </div>
         <div class="row">
-          <? include 'text/coda.txt'?>
+          <?php include 'text/coda.txt'?>
         </div>
         <div id="codacode" class="row pre-scrollable">
-          <pre><code><? $code = file_get_contents('scripts/coda3.sco'); $code = htmlentities($code, ENT_QUOTES); echo $code; ?></code></pre>
+          <pre><code><?php $code = file_get_contents('scripts/coda3.sco'); $code = htmlentities($code, ENT_QUOTES); echo $code; ?></code></pre>
         </div>
       </div>
     </div> <!-- /container -->

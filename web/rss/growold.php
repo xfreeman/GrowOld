@@ -41,15 +41,15 @@
 
 <itunes:author>Jason Freeman</itunes:author>
 
-<itunes:subtitle>The first track of Grow Old, regenerated on <? include '../scripts/filenamedate.txt'; ?>.</itunes:subtitle>
+<itunes:subtitle>The first track of Grow Old, regenerated on <?php include '../scripts/filenamedate.txt'; ?>.</itunes:subtitle>
 
-<itunes:summary>The first track of Grow Old, regenerated on <? include '../scripts/filenamedate.txt'; ?>. Visit http://turbulence.org/Works/GrowOld/ for more info.</itunes:summary>
+<itunes:summary>The first track of Grow Old, regenerated on <?php include '../scripts/filenamedate.txt'; ?>. Visit http://turbulence.org/Works/GrowOld/ for more info.</itunes:summary>
 
 <itunes:image href="http://turbulence.org/index_files/turb_black_216.gif" />
 
-<enclosure url="https://archive.org/download/jason_freeman_grow_old/Saturns_Moons_<? include '../scripts/filenamedate.txt'; ?>.mp3" type="audio/mpeg" />
+<enclosure url="https://archive.org/download/jason_freeman_grow_old/Saturns_Moons_<?php include '../scripts/filenamedate.txt'; ?>.mp3" type="audio/mpeg" />
 
-<guid>https://archive.org/download/jason_freeman_grow_old/Saturns_Moons_<? include '../scripts/filenamedate.txt'; ?>.mp3</guid>
+<guid>https://archive.org/download/jason_freeman_grow_old/Saturns_Moons_<?php include '../scripts/filenamedate.txt'; ?>.mp3</guid>
 
 <itunes:duration>4:14</itunes:duration>
 
@@ -61,15 +61,15 @@
 
 <itunes:author>Jason Freeman</itunes:author>
 
-<itunes:subtitle>The second track of Grow Old, regenerated on <? include '../scripts/filenamedate.txt'; ?>.</itunes:subtitle>
+<itunes:subtitle>The second track of Grow Old, regenerated on <?php include '../scripts/filenamedate.txt'; ?>.</itunes:subtitle>
 
-<itunes:summary>The second track of Grow Old, regenerated on <? include '../scripts/filenamedate.txt'; ?>. Visit http://turbulence.org/Works/GrowOld/ for more info.</itunes:summary>
+<itunes:summary>The second track of Grow Old, regenerated on <?php include '../scripts/filenamedate.txt'; ?>. Visit http://turbulence.org/Works/GrowOld/ for more info.</itunes:summary>
 
 <itunes:image href="http://turbulence.org/index_files/turb_black_216.gif" />
 
-<enclosure url="https://archive.org/download/jason_freeman_grow_old/Toy_Piano_<? include '../scripts/filenamedate.txt'; ?>.mp3" type="audio/mpeg" />
+<enclosure url="https://archive.org/download/jason_freeman_grow_old/Toy_Piano_<?php include '../scripts/filenamedate.txt'; ?>.mp3" type="audio/mpeg" />
 
-<guid>https://archive.org/download/jason_freeman_grow_old/Toy_Piano_<? include '../scripts/filenamedate.txt'; ?>.mp3</guid>
+<guid>https://archive.org/download/jason_freeman_grow_old/Toy_Piano_<?php include '../scripts/filenamedate.txt'; ?>.mp3</guid>
 
 <itunes:duration>3:17</itunes:duration>
 
@@ -81,15 +81,15 @@
 
 <itunes:author>Jason Freeman</itunes:author>
 
-<itunes:subtitle>The third track of Grow Old, regenerated on <? include '../scripts/filenamedate.txt'; ?>.</itunes:subtitle>
+<itunes:subtitle>The third track of Grow Old, regenerated on <?php include '../scripts/filenamedate.txt'; ?>.</itunes:subtitle>
 
-<itunes:summary>The third track of Grow Old, regenerated on <? include '../scripts/filenamedate.txt'; ?>. Visit http://turbulence.org/Works/GrowOld/ for more info.</itunes:summary>
+<itunes:summary>The third track of Grow Old, regenerated on <?php include '../scripts/filenamedate.txt'; ?>. Visit http://turbulence.org/Works/GrowOld/ for more info.</itunes:summary>
 
 <itunes:image href="http://turbulence.org/index_files/turb_black_216.gif" />
 
-<enclosure url="https://archive.org/download/jason_freeman_grow_old/Infinite_Snowflake_<? include '../scripts/filenamedate.txt'; ?>.mp3" type="audio/mpeg" />
+<enclosure url="https://archive.org/download/jason_freeman_grow_old/Infinite_Snowflake_<?php include '../scripts/filenamedate.txt'; ?>.mp3" type="audio/mpeg" />
 
-<guid>https://archive.org/download/jason_freeman_grow_old/Infinite_Snowflake_<? include '../scripts/filenamedate.txt'; ?>.mp3</guid>
+<guid>https://archive.org/download/jason_freeman_grow_old/Infinite_Snowflake_<?php include '../scripts/filenamedate.txt'; ?>.mp3</guid>
 
 <itunes:duration>4:00</itunes:duration>
 
@@ -101,15 +101,15 @@
 
 <itunes:author>Jason Freeman</itunes:author>
 
-<itunes:subtitle>The fourth track of Grow Old, regenerated on <? include '../scripts/filenamedate.txt'; ?>.</itunes:subtitle>
+<itunes:subtitle>The fourth track of Grow Old, regenerated on <?php include '../scripts/filenamedate.txt'; ?>.</itunes:subtitle>
 
-<itunes:summary>The fourth track of Grow Old, regenerated on <? include '../scripts/filenamedate.txt'; ?>. Visit http://turbulence.org/Works/GrowOld/ for more info.</itunes:summary>
+<itunes:summary>The fourth track of Grow Old, regenerated on <?php include '../scripts/filenamedate.txt'; ?>. Visit http://turbulence.org/Works/GrowOld/ for more info.</itunes:summary>
 
 <itunes:image href="http://turbulence.org/index_files/turb_black_216.gif" />
 
-<enclosure url="https://archive.org/download/jason_freeman_grow_old/Coda_<? include '../scripts/filenamedate.txt'; ?>.mp3" type="audio/mpeg" />
+<enclosure url="https://archive.org/download/jason_freeman_grow_old/Coda_<?php include '../scripts/filenamedate.txt'; ?>.mp3" type="audio/mpeg" />
 
-<guid>https://archive.org/download/jason_freeman_grow_old/Coda_<? include '../scripts/filenamedate.txt'; ?>.mp3</guid>
+<guid>https://archive.org/download/jason_freeman_grow_old/Coda_<?php include '../scripts/filenamedate.txt'; ?>.mp3</guid>
 
 <itunes:duration>3:00</itunes:duration>
 
